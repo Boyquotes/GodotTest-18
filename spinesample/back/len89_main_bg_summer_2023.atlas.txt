@@ -1,0 +1,48 @@
+
+len89_main_bg_summer_2023.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vector Smart Object
+  rotate: false
+  xy: 2, 616
+  size: 534, 290
+  orig: 534, 290
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy
+  rotate: false
+  xy: 726, 941
+  size: 438, 319
+  orig: 438, 319
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 2
+  rotate: false
+  xy: 2, 908
+  size: 722, 352
+  orig: 722, 352
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 3
+  rotate: false
+  xy: 2, 458
+  size: 115, 156
+  orig: 115, 156
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy1
+  rotate: true
+  xy: 1764, 1622
+  size: 360, 218
+  orig: 360, 218
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 1262
+  size: 1760, 720
+  orig: 1760, 720
+  offset: 0, 0
+  index: -1

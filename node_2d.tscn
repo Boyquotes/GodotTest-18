@@ -1,0 +1,52 @@
+[gd_scene load_steps=5 format=3 uid="uid://clc7tfsbam2um"]
+
+[ext_resource type="Texture2D" uid="uid://cdp1fl5wvm0bw" path="res://bigtexture/DefaultLogin.png" id="1_i3nkj"]
+[ext_resource type="Texture2D" uid="uid://cxw5fgknlbkj2" path="res://bigtexture/LobbyRGBA32bit.png" id="2_124q6"]
+[ext_resource type="Texture2D" uid="uid://bmbnfs4h452xn" path="res://bigtexture/MainRGBA32bit.png" id="3_5inij"]
+[ext_resource type="AudioStream" uid="uid://brvne1iqxlfrf" path="res://BGM(TTT).wav" id="4_6opn8"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(1, 1)
+
+[node name="DefaultLogin" type="Sprite2D" parent="."]
+position = Vector2(932.5, 80.5)
+scale = Vector2(0.0649414, 0.0649414)
+texture = ExtResource("1_i3nkj")
+
+[node name="LobbyRgba32Bit" type="Sprite2D" parent="."]
+position = Vector2(933.5, 214.5)
+scale = Vector2(0.0585937, 0.0585937)
+texture = ExtResource("2_124q6")
+
+[node name="MainRgba32Bit" type="Sprite2D" parent="."]
+position = Vector2(934.5, 340.5)
+scale = Vector2(0.0527344, 0.0527344)
+texture = ExtResource("3_5inij")
+
+[node name="AudioListener2D" type="AudioListener2D" parent="."]
+position = Vector2(25, 3)
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="AudioListener2D"]
+stream = ExtResource("4_6opn8")
+
+[node name="CanvasGroup" type="CanvasGroup" parent="."]
+
+[node name="Panel" type="Panel" parent="CanvasGroup"]
+offset_left = 25.0
+offset_top = 3.0
+offset_right = 418.0
+offset_bottom = 611.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="CanvasGroup/Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1.0
+offset_bottom = 1.0
+text = "အကောငျ့သစျလုပျရနျ
+
+สมัครสมาชิก
+
+Đăng nhập"
+tab_size = 5

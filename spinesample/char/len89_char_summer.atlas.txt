@@ -1,0 +1,90 @@
+
+len89_char_summer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_down_1st
+  rotate: true
+  xy: 2, 270
+  size: 287, 247
+  orig: 287, 247
+  offset: 0, 0
+  index: -1
+body_up_1st
+  rotate: false
+  xy: 210, 640
+  size: 273, 382
+  orig: 273, 382
+  offset: 0, 0
+  index: -1
+finger
+  rotate: false
+  xy: 210, 575
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: true
+  xy: 991, 890
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 2, 61
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 903, 918
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 485, 784
+  size: 416, 238
+  orig: 416, 238
+  offset: 0, 0
+  index: -1
+head_1st
+  rotate: false
+  xy: 2, 85
+  size: 163, 183
+  orig: 163, 183
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2, 559
+  size: 206, 463
+  orig: 206, 463
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: true
+  xy: 485, 651
+  size: 131, 173
+  orig: 131, 173
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 660, 660
+  size: 122, 179
+  orig: 122, 179
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: false
+  xy: 903, 795
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
